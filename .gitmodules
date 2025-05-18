@@ -1,11 +1,11 @@
 [submodule "FileStorageReborn"]
 	path = FileStorageReborn
-	url = ./FileStorageReborn
+	url = https://github.com/Skr0ls/FileStorageReborn
 
 [submodule "message_backend"]
 	path = message_backend
-	url = ./message_backend
+	url = https://github.com/Sinzxc/message_backend
 
 [submodule "message_frontend"]
 	path = message_frontend
-	url = ./message_frontend
+	url = https://github.com/Sinzxc/message_frontend
